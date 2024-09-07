@@ -1,4 +1,4 @@
-# 💫 About Me:
+# Hi There 👋:
 🛠️ Currently working on: Improving CI/CD pipelines and infrastructure automation at Bottomline Technologies<br>🤝 Looking to collaborate on: Cloud-native DevOps projects and container orchestration with Kubernetes<br>🌐 Seeking help with: Mastering AWS for scaling cloud infrastructure<br>📚 Currently learning: AWS cloud services and advanced Terraform techniques<br>💻 Ask me about: Jenkins, Docker, Kubernetes, Terraform, and automation workflows<br>🎉 Fun fact: I'm always experimenting with new tools and love breaking things just to learn how to fix them!
 
 
